@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scankoksalan
+- 👋 Hi, I’m Şakir Can Köksalan
 - 👀 I’m interested in Mobile Application
 - 🌱 I’m currently learning Android Studio 
 - 📫 How to reach me sakircan.koksalan@gmail.com
